@@ -1,0 +1,11 @@
+h1, h2, p {
+text-align: center;
+}
+body {
+  /*background-color: burlywood;*/ /*Don't Include the comments*/
+}
+div {
+  width: 300px;
+/*  border:red solid 5px; */
+  background-color: burlywood; /*This is new*/
+}
